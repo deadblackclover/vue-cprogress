@@ -1,6 +1,6 @@
 {
   "name": "vue-cprogress",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Vue circle progress bar",
   "main": "CProgress.vue",
   "scripts": {
