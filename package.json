@@ -1,0 +1,25 @@
+{
+  "name": "vue-cprogress",
+  "version": "1.0.11",
+  "description": "Vue circle progress bar",
+  "main": "CProgress.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "progress",
+    "bar",
+    "circle"
+  ],
+  "author": "DEADBLACKCLOVER <deadblackclover@protonmail.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/deadblackclover/vue-cprogress.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/deadblackclover/vue-cprogress/issues"
+  },
+  "homepage": "https://gitlab.com/deadblackclover/vue-cprogress#README"
+}
